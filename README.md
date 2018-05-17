@@ -24,6 +24,7 @@ výpočty potrebné pre spracovanie dát, bude poskytnuté.
 - práca s HSV formátom
 - práca s opencv a keras
 - prehľad v literatúre
+- kostra práce v laTex v repozitári
 
 ### Literatúra
  - odkazy v dokumente prezent.pdf
