@@ -25,4 +25,7 @@ výpočty potrebné pre spracovanie dát, bude poskytnuté.
 - práca s opencv a keras
 - prehľad v literatúre
 
+### Literatúra
+ - odkazy v dokumente prezent.pdf
+
 ## V súčasnosti dáta nie sú na githube (pamäťové obmedzenie)
