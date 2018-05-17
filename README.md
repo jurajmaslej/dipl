@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Možnosti využitia metód hlbokého učenia v predpovedi počasia
 
-You can use the [editor on GitHub](https://github.com/jurajmaslej/dipl/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Kompilačná a čiastočne implementačná práca zo strojového učenia
+s fyzikálnym rozmerom
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Cieľ
 
-### Markdown
+Hlboké učenie využíva konvolučné neurónové siete, kde sa z dát učí tzv. kernel,
+ktorý sa paralelne aplikuje na na všetky miesta na dátach a spracuje lokálne
+okolie tohto miesta na zložku nadradenej dátovej úrovne. Táto metóda sa
+s úspechom používa na spracovanie obrazu. Cieľom tejto práce je preskúmať
+možnosti jej aplikácie v inej doméne a to pri spracovaní meteorologických
+údajov. Tieto údaje majú tiež 2D charakter ako obraz, avšak rôzne zložky
+v rôznych jednotkách: jednotlivé meteorologické veličiny (teplota, vlhkosť,
+tlak, rýchlosť vetra) a geografické dáta (nadmorská výška, zemepisná dĺžka, ...).
+Údaje s potrebnou anotáciou budú poskytnuté. Počítačový jazyk a knižnica
+pre hlboké učenie si diplomant vyberie sám, avšak použije existujúce riešenie,
+odporučané prostredie je tensorflow. Hardwarová platforma na rozsiahle
+výpočty potrebné pre spracovanie dát, bude poskytnuté.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Súčasný stav
+- výber technológii ukončený 
+- prvé obrazové dáta
+- práca s HSV formátom
+- práca s opencv a keras
+- prehľad v literatúre
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jurajmaslej/dipl/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## V súčasnosti dáta nie sú na githube (pamäťové obmedzenie)
