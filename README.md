@@ -35,7 +35,7 @@ výpočty potrebné pre spracovanie dát, bude poskytnuté.
 - trénovanie kernelu konvolučnej siete
 
 ### Literatúra
- Ryo Onishi, Deep convolutional neural network for cloud estimation from snapshot camera images, 2017<>br
+ Ryo Onishi, Deep convolutional neural network for cloud estimation from snapshot camera images, 2017<br>
  Le Goff, Deep learning for cloud detection, 2017<br>
  Zafarifar, Weda, Horizon detection, 2008<br>
  Goodfellow, Deep Learning. 2016
