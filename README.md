@@ -1,3 +1,5 @@
+# Diplomová práca
+
 ## Možnosti využitia metód hlbokého učenia v predpovedi počasia
 
 Kompilačná a čiastočne implementačná práca zo strojového učenia
@@ -25,6 +27,12 @@ výpočty potrebné pre spracovanie dát, bude poskytnuté.
 - práca s opencv a keras
 - prehľad v literatúre
 - kostra práce v laTex v repozitári
+
+### Implementácia
+- načítanie .tif, prevod do jpeg
+- práca s HSV formátom
+- vytvorenie masky na filtráciu oblohy
+- trénovanie kernelu konvolučnej siete
 
 ### Literatúra
  - odkazy v dokumente prezent.pdf
